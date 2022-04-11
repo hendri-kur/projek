@@ -1,0 +1,202 @@
+CRITICAL - 2022-04-10 07:49:08 --> Invalid file: layouts/header.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/header....')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('layouts/header', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Login.php(48): view('layouts/header', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-10 08:17:20 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:17:22 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:17:31 --> Invalid file: layouts/header.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/header....')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('layouts/header', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Login.php(48): view('layouts/header', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-10 08:26:21 --> Invalid file: layouts/header.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/header....')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('layouts/header', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Login.php(48): view('layouts/header', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-10 08:26:23 --> Invalid file: layouts/header.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/header....')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('layouts/header', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Login.php(48): view('layouts/header', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-10 08:26:24 --> Invalid file: layouts/header.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/header....')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('layouts/header', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Login.php(48): view('layouts/header', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-10 08:26:32 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:16 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:19 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:20 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:20 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:20 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:20 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:21 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:21 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:21 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:21 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:21 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:21 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:28:22 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:30:05 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:36:10 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 08:36:28 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 09:02:21 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 09:07:28 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 09:07:29 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 09:07:38 --> Class "Config\KAdmin" not found
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-04-10 09:11:49 --> kAdmin filter must have a matching alias defined.
+#0 C:\xampp\htdocs\Mahasiswa\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('kAdmin')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('kAdmin', 'before')
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-10 09:12:59 --> kAdmin filter must have a matching alias defined.
+#0 C:\xampp\htdocs\Mahasiswa\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('kAdmin')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('kAdmin', 'before')
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-10 09:14:02 --> kAdmin filter must have a matching alias defined.
+#0 C:\xampp\htdocs\Mahasiswa\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('kAdmin')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('kAdmin', 'before')
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-10 09:14:28 --> KAdmin filter must have a matching alias defined.
+#0 C:\xampp\htdocs\Mahasiswa\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('KAdmin')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('KAdmin', 'before')
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-10 09:14:38 --> kAdmin filter must have a matching alias defined.
+#0 C:\xampp\htdocs\Mahasiswa\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('kAdmin')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('kAdmin', 'before')
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-10 09:14:50 --> KAdmin filter must have a matching alias defined.
+#0 C:\xampp\htdocs\Mahasiswa\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('KAdmin')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('KAdmin', 'before')
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-10 09:14:59 --> kAdmin filter must have a matching alias defined.
+#0 C:\xampp\htdocs\Mahasiswa\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('kAdmin')
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('kAdmin', 'before')
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
