@@ -34,6 +34,9 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 $routes->get('/dashboard', 'Dashboard::index', ['filter' => 'kAdmin']);
 $routes->get('/login', 'Login::index', ['filter' => 'kTamu']);
+$routes->get('/', 'mahasiswa::index');
+//$routes->get('/mahsiswa/detail/delete/(:segment)', 'Mahasiswa::delete/$1');
+//$routes->get('/mahasiswa/(:segment)', 'Mahasiswa::detail/$1');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

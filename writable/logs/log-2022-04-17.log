@@ -1,0 +1,285 @@
+CRITICAL - 2022-04-17 08:14:40 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:14:57 --> Too few arguments to function App\Controllers\Mahasiswa::edit(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->edit()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:15:50 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:16:55 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:17:23 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:18:09 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:18:41 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:20:38 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:22:24 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:25:32 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:25:38 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:37:52 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:37:57 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:42:40 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('delete')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:42:51 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('delete')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:43:10 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('edit')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:43:16 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('delete')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:44:02 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('8')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:44:28 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('12')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:44:33 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('2')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:44:47 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('delete')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:44:58 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(42): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('delete')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 08:45:15 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:55:20 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:55:31 --> Too few arguments to function App\Controllers\Mahasiswa::edit(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->edit()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 08:56:30 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 09:13:08 --> Undefined property: App\Controllers\Mahasiswa::$model
+#0 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->index()
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 09:13:13 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 09:13:17 --> Undefined property: App\Controllers\Mahasiswa::$model
+#0 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->index()
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 09:13:58 --> Undefined property: App\Controllers\Mahasiswa::$model
+#0 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->index()
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 10:09:40 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 10:10:18 --> Too few arguments to function App\Controllers\Mahasiswa::edit(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->edit()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

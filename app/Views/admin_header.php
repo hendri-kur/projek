@@ -74,7 +74,7 @@
                     <li class="nav-header">MENU UTAMA</li>
                     <li class="nav-item <?php if (in_array($activeMenu, ['dashboard'])) echo "menu-open" ?>">
                         <a href="<?= base_url('dashboard') ?>" class="nav-link <?php if (in_array($activeMenu, ['dashboard'])) echo "active" ?>">
-                            <i class="nav-icon fas fa-image"></i>
+                            <i class="nav-icon fa fa-home"></i>
                             <p>
                                 Dashboard
                             </p>
@@ -88,18 +88,18 @@
                             </p>
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a href="pages/calendar.html" class="nav-link">
+                    <li class="nav-item <?php if (in_array($activeMenu, ['tempat'])) echo "menu-open" ?>">
+                        <a href="<?= base_url('tempat') ?>" class="nav-link <?php if (in_array($activeMenu, ['tempat'])) echo "active" ?>">
                             <i class="nav-icon far fa-calendar-alt"></i>
                             <p>
-                                Data Lokasi PKL
+                                Data Tempat PKL
                             </p>
                         </a>
                     </li>
                     <li class="nav-header">FILE</li>
                     <li class="nav-item">
                         <a href="pages/calendar.html" class="nav-link">
-                            <i class="nav-icon far fa-calendar-alt"></i>
+                            <i class="nav-icon fas fa-image"></i>
                             <p>
                                 Galeri File
                             </p>
@@ -125,7 +125,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="pages/calendar.html" class="nav-link">
-                            <i class="nav-icon far fa-calendar-alt"></i>
+                            <i class="nav-icon fa fa-user"></i>
                             <p>
                                 Manajemen Admin
                             </p>

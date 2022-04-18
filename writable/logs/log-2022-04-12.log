@@ -1,0 +1,306 @@
+CRITICAL - 2022-04-12 02:21:38 --> Undefined variable $title
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\admin_header.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 7)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('admin_header', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(38): view('admin_header', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:23:05 --> Invalid file: detail_view.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('detail_view.php')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 02:26:18 --> Invalid file: detail_view.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('detail_view.php')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 02:31:41 --> Undefined array key "cerated_at"
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:31:54 --> Undefined array key "cerated_at"
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 02:32:00 --> Undefined array key "cerated_at"
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:21:41 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:21:47 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:26:05 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:26:12 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:26:23 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:26:38 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:26:42 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:29:37 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:31:50 --> Undefined variable $m
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\detail_view.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('detail_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(41): view('detail_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->detail('1')
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:36:04 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 03:39:19 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 07:26:19 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 09:14:15 --> Undefined variable $activeMenu
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\admin_header.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('admin_header', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(49): view('admin_header', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->create()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 09:14:30 --> Undefined variable $activeMenu
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\admin_header.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('admin_header', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(49): view('admin_header', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->create()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-12 09:15:20 --> Invalid file: mahasiswa/create.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/creat...')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('mahasiswa/creat...', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(51): view('mahasiswa/creat...', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->create()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 09:15:37 --> Invalid file: mahasiswa/create.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/creat...')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('mahasiswa/creat...', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(51): view('mahasiswa/creat...', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->create()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 09:46:19 --> Invalid file: mahasiswa/create.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/creat...')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('mahasiswa/creat...', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(51): view('mahasiswa/creat...', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->create()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 09:46:31 --> Invalid file: mahasiswa/create.php
+#0 C:\xampp\htdocs\Mahasiswa\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/creat...')
+#1 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('mahasiswa/creat...', Array, true)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(51): view('mahasiswa/creat...', Array)
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->create()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 10:30:32 --> Undefined variable $mahasiswa
+#0 C:\xampp\htdocs\Mahasiswa\app\Views\tempat_view.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\Mahasiswa\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Mahasiswa\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\Mahasiswa\system\Common.php(1089): CodeIgniter\View\View->render('tempat_view', Array, true)
+#4 C:\xampp\htdocs\Mahasiswa\app\Controllers\Tempat.php(13): view('tempat_view', Array)
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Tempat->index()
+#6 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tempat))
+#7 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-12 10:36:05 --> Column 'universitas' cannot be null
+CRITICAL - 2022-04-12 10:36:05 --> Column 'universitas' cannot be null
+#0 C:\xampp\htdocs\Mahasiswa\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ma...', 0)
+#1 C:\xampp\htdocs\Mahasiswa\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ma...')
+#2 C:\xampp\htdocs\Mahasiswa\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ma...')
+#3 C:\xampp\htdocs\Mahasiswa\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ma...', Array, false)
+#4 C:\xampp\htdocs\Mahasiswa\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Mahasiswa\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Mahasiswa\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\Mahasiswa\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(68): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->save()
+#10 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#11 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-12 11:06:28 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 11:07:59 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 11:08:07 --> Too few arguments to function App\Controllers\Mahasiswa::delete(), 0 passed in C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#2 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-12 11:08:30 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\Mahasiswa\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\Mahasiswa\system\BaseModel.php(963): CodeIgniter\Model->doDelete(NULL, false)
+#2 C:\xampp\htdocs\Mahasiswa\app\Controllers\Mahasiswa.php(79): CodeIgniter\BaseModel->delete()
+#3 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(832): App\Controllers\Mahasiswa->delete()
+#4 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+#5 C:\xampp\htdocs\Mahasiswa\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Mahasiswa\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
